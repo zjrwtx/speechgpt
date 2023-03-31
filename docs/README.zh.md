@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://speechgpt.app/">网站</a>
+  <a href="https://speechgpt.app/">网站页面</a>
 </p>
 
 <p align="center">
